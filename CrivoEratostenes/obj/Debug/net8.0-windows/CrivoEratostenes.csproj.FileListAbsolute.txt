@@ -1,0 +1,51 @@
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.exe
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.deps.json
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.runtimeconfig.json
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.dll
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.pdb
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.frm_crivoEratostenes.resources
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.csproj.GenerateResource.cache
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.AssemblyInfoInputs.cache
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.AssemblyInfo.cs
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.sourcelink.json
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.dll
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\refint\CrivoEratostenes.dll
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.pdb
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.genruntimeconfig.cache
+D:\Arquivos\Documents\Escola\Git\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\ref\CrivoEratostenes.dll
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.exe
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.deps.json
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.runtimeconfig.json
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.dll
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.pdb
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.frm_crivoEratostenes.resources
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.csproj.GenerateResource.cache
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.AssemblyInfoInputs.cache
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.AssemblyInfo.cs
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.csproj.CoreCompileInputs.cache
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.sourcelink.json
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.dll
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\refint\CrivoEratostenes.dll
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.pdb
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.genruntimeconfig.cache
+C:\Users\saryu\Downloads\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\ref\CrivoEratostenes.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.exe
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.deps.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.runtimeconfig.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\bin\Debug\net8.0-windows\CrivoEratostenes.pdb
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.frm_crivoEratostenes.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.csproj.GenerateResource.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.AssemblyInfoInputs.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.AssemblyInfo.cs
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.csproj.CoreCompileInputs.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\refint\CrivoEratostenes.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.pdb
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.genruntimeconfig.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\ref\CrivoEratostenes.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\CrivoEratostenes\CrivoEratostenes\obj\Debug\net8.0-windows\CrivoEratostenes.Properties.Resources.resources
